@@ -1,0 +1,17 @@
+{
+  "name": "placeholder-image-api",
+  "version": "1.0.0",
+  "description": "Dynamic placeholder image generation REST API — self-hosted, SVG-based, zero native dependencies",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": ["placeholder", "image", "svg", "api", "generator"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
