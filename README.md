@@ -63,3 +63,5 @@ docker run -p 4700:4700 placeholder-image-api
 ## License
 
 MIT
+
+<sub>💡 Host your own stack? <a href="https://m.do.co/c/c8c07a9d3273">Get $200 DigitalOcean credit</a> via lazymac referral link.</sub>
